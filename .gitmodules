@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "SILM"]
 	path = SILM
-	url = https://github.com/zhangxiany-tamu/silm
+	url = https://github.com/cran/SILM
