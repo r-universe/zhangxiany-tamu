@@ -1,0 +1,10 @@
+{
+  "id": 164636087,
+  "created_at": "2026-09-25T00:42:50.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["SILM"]
+}
